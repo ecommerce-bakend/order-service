@@ -13,9 +13,9 @@
 	</parent>
 
 	<groupId>com.selimhorri</groupId>
-	<artifactId>order-service</artifactId>
+	<artifactId>favourite-service</artifactId>
 	<version>0.1.0</version>
-	<name>order-service</name>
+	<name>favourite-service</name>
 	<description>Spring Boot microservice!</description>
 	<packaging>jar</packaging>
 
